@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="estilos.css"?>
+<!DOCTYPE biblioteca>
+<!--estoy guardando información de una bibñioteca-->
+<biblioteca>
+    <ejemplar autor="ljkhlksd">
+        <titulo>El imperio final</titulo>
+        <fecha>2015>2006</fecha>
+        <paginas>200</paginas>
+    </ejemplar>
+    <ejemplar>
+        <titulo>El camino</titulo>
+        <autor>Miguel Delibes</autor>
+        <fecha>1970&gt;1989</fecha>
+        <paginas></paginas>
+    </ejemplar>
+    <ejemplar>
+        <titulo>Harry Potter</titulo>
+        <autor>J.K Rowling</autor>
+        <fecha>2012</fecha>
+        <paginas/>
+    </ejemplar>
+</biblioteca>

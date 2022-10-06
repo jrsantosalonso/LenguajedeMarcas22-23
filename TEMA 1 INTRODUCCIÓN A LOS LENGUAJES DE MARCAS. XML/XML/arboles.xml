@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arboles>
+    <especie>
+        <nombre nombre_comun="Arce de Montpellier, Arce menor">Acer monspessulanum</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <forma_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_estructura>
+        <color_prima>Haz verde brillante, envés verde blanquecino</color_prima>
+        <color_otono/>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </especie>
+    <especie>
+        <nombre nombre_comun="Arce de Montpellier, Arce menor">Acer monspessulanum</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <forma_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_estructura>
+        <color_prima>Haz verde brillante, envés verde blanquecino</color_prima>
+        <color_otono/>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </especie>
+    <especie>
+        <nombre nombre_comun="Arce de Montpellier, Arce menor">Acer monspessulanum</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <forma_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_estructura>
+        <color_prima>Haz verde brillante, envés verde blanquecino</color_prima>
+        <color_otono/>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </especie>
+    <especie>
+        <nombre nombre_comun="">Ramaje tortuoso</nombre>
+        <vegetacion/>
+        <altura/>
+        <forma_estructura/>
+        <color_prima>Haz verde oscuro, envés verde plateado</color_prima>
+        <color_otono/>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </especie>
+    <especie>
+        <nombre nombre_comun="Arce de Montpellier, Arce menor">Acer monspessulanum</nombre>
+        <vegetacion>Caducifolio</vegetacion>
+        <altura>De 6 a 10 metros</altura>
+        <forma_estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</forma_estructura>
+        <color_prima>Haz verde brillante, envés verde blanquecino</color_prima>
+        <color_otono/>
+        <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+    </especie>
+
+</arboles>
